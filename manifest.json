@@ -1,11 +1,13 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "vtabs-pro",
+	"name": "VTabs Pro",
+	"version": "0.0.1",
 	"minAppVersion": "1.0.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "An extension to the Vertical Tabs plugin that enables pro features.",
+	"author": "oxdc",
+	"authorUrl": "https://github.com/oxdc",
+	"fundingUrl": {
+		"Ko-fi": "https://ko-fi.com/oxdcq"
+	},
 	"isDesktopOnly": false
 }
